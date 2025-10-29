@@ -1,4 +1,4 @@
-# 3D-Printer-Control-System
+# 3D-Printer-Bed-Control-System
 
 
 ## Project Overview
