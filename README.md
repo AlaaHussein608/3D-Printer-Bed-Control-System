@@ -1,9 +1,9 @@
-# 3D-Printer-Bed-Control-System
+# 3D-Printer-Bed-Control-System-Simulation
 
 
 ## Project Overview
 
-A comprehensive control system for a dual-axis 3D printer bed using **Arduino Mega**, featuring DC motor control with **PID**, encoder feedback, and a user interface.
+A comprehensive control system simulation for a dual-axis 3D printer bed using **Arduino Mega**, featuring DC motor control with **PID**, encoder feedback, and a user interface.
 
 ---
 
